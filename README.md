@@ -8,3 +8,6 @@ cl -FC -Zi ..\ray.cc  user32.lib gdi32.lib. If that doesn't work you could also 
 I believe this will build on other machines. To do so, call the compiler appropriately (e.g g++ ray.cc -o ray). 
 # Run
 To run the demo, double click on the ray.exe executable once it is built. This will create a bitmap of the image.
+
+<br>
+<img src=sample/test.bmp width="400" height="225" />
